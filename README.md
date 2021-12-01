@@ -7,7 +7,7 @@
 ## How to?
 Go to the `releases` of this repo and `download` it or copy the codes, go to a online `java-compiler` and paste it and run.
 #### Codes are below 👇
-### Christmas
+### Christmas ❄️
 ```java
 import java.time.LocalDate;// importing LocalDate class
 import java.time.Month;// importing Month class
@@ -37,7 +37,7 @@ public class aaa {
   }
 }
 ```
-### New year
+### New year 🎆
 ```java
 import java.time.LocalDate;// importing LocalDate class
 import java.time.Month;// importing Month class
@@ -67,7 +67,7 @@ public class aaa {
   }
 }
 ```
-### Halloween
+### Halloween 🍬
 ```java
 import java.time.LocalDate;// importing LocalDate class
 import java.time.Month;// importing Month class
@@ -97,3 +97,4 @@ public class aaa {
   }
 }
 ```
+> ### Don't forget to give a star... 🌟
